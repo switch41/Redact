@@ -201,8 +201,12 @@ For support, please:
 
 For a comprehensive market analysis of existing redaction tools and their limitations, please refer to our [Market Research Document](https://tinyurl.com/Team-Rookie-Research). This document provides detailed comparisons of current redaction tools in the market, their shortcomings, and how RE-DACT addresses these limitations.
 
+## Contributors
+
+* Kushal Parihar ([@switch41](https://github.com/switch41))
+
 ---
 
-Made with ❤️ by Team Rookie
+Made by Team Rookie
 
  
