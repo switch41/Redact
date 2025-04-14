@@ -199,7 +199,7 @@ For support, please:
 
 ## Research Documentation
 
-For detailed research and development documentation, please refer to our [Team Rookie Research Document](https://tinyurl.com/Team-Rookie-Research). This document contains comprehensive information about the tool's development process, research findings, and implementation details.
+For a comprehensive market analysis of existing redaction tools and their limitations, please refer to our [Market Research Document](https://tinyurl.com/Team-Rookie-Research). This document provides detailed comparisons of current redaction tools in the market, their shortcomings, and how RE-DACT addresses these limitations.
 
 ---
 
