@@ -45,6 +45,29 @@ RE-DACT is a powerful, user-friendly document redaction tool designed to protect
 - **Undo/Redo**: Track and reverse changes
 - **Settings Persistence**: Save and restore user preferences
 
+## Workflow
+
+The following diagram illustrates the complete workflow of the RE-DACT tool:
+
+```mermaid
+graph TD
+    A[Start<br/>Initialize GUI] --> B[User Action: Select File]
+    B --> C[User Action: Select Redaction Level<br/>Level 1, 2 or 3]
+    C --> D[Redact Text File<br/>spaCy, RegEx]
+    C --> E[Redact Image File<br/>OCR with Tesseract Image Draw]
+    C --> F[Redact PDF File<br/>Convert Images, OCR, NER]
+    C --> G[Redact Word Document<br/>Python-docx, NER]
+    C --> H[Redact Excel File<br/>openpyxl, NER]
+    D --> I[User Action: Save File]
+    E --> I
+    F --> I
+    G --> I
+    H --> I
+    I --> J[End<br/>Display Success/Error Message]
+```
+
+This workflow demonstrates how RE-DACT handles different file types and processes them through appropriate redaction pipelines based on the selected redaction level.
+
 ## Installation
 
 ### Prerequisites
