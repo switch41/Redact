@@ -199,8 +199,10 @@ For support, please:
 
 ## Research Documentation
 
-For detailed research and development documentation, please refer to the `documentation/team_rookie_research.docx` file. This document contains comprehensive information about the tool's development process, research findings, and implementation details.
+For detailed research and development documentation, please refer to our [Team Rookie Research Document](https://tinyurl.com/Team-Rookie-Research). This document contains comprehensive information about the tool's development process, research findings, and implementation details.
 
 ---
 
-Made with ❤️ by Team Rookie 
+Made with ❤️ by Team Rookie
+
+ 
