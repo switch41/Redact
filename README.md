@@ -2,8 +2,6 @@
 
 RE-DACT is a powerful, user-friendly document redaction tool designed to protect sensitive information in various document formats. With its modern interface and comprehensive feature set, it provides an efficient way to redact personal information, business data, and other sensitive content.
 
-![RE-DACT Tool](screenshots/main_window.png)
-
 ## Features
 
 ### Core Functionality
