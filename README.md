@@ -1,6 +1,6 @@
 # RE-DACT: Advanced Document Redaction Tool
 
-RE-DACT is a powerful, user-friendly document redaction tool designed to protect sensitive information in various document formats. With its modern interface and comprehensive feature set, it provides an efficient way to redact personal information, business data, and other sensitive content.
+RE-DACT is a powerful, user-friendly document redaction tool designed by **Team Rookie** to protect sensitive information in various document formats. With its modern interface and comprehensive feature set, it provides an efficient way to redact personal information, business data, and other sensitive content.
 
 ## Features
 
@@ -202,7 +202,11 @@ For a comprehensive market analysis of existing redaction tools and their limita
 ## Contributors
 
 * Kushal Parihar ([@switch41](https://github.com/switch41))
-
+* Lewis Ronith Dhanraj ([@Ronith05](https://github.com/Ronith05))
+* Sahithya Chandana ([@switch41](https://github.com/switch41))
+* Nandikanti Sriya ([@nandikanti09](https://github.com/nandikanti09))
+* O.K.Sree Vardhan ([@svardhan05](https://github.com/svardhan05))
+* Pilla Varshith ([@Varshith35](https://github.com/Varshith35))
 ---
 
 Made by Team Rookie
